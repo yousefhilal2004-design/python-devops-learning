@@ -1,0 +1,8 @@
+INFO Application started
+INFO Server listening on port 8080
+WARNING CPU usage high
+ERROR Database connection failed
+INFO Request completed
+ERROR API timeout
+WARNING Disk usage high
+ERROR DNS lookup failed

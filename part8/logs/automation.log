@@ -1,0 +1,6 @@
+Program started
+Input log found: /home/yousef/devops-projects/python-devops-learning/part8/logs/app.log
+Log analysis completed
+Report created: /home/yousef/devops-projects/python-devops-learning/part8/reports/log_report.txt
+Backup created: /home/yousef/devops-projects/python-devops-learning/part8/backups/log_report_backup.txt
+Program completed

@@ -1,0 +1,21 @@
+========================================
+ PYTHON DEVOPS LOG ANALYSIS REPORT
+========================================
+
+Source: /home/yousef/devops-projects/python-devops-learning/part8/logs/app.log
+Source file: app.log
+
+=== SUMMARY ===
+INFO: 3
+WARNING: 2
+ERROR: 3
+UNKNOWN: 0
+
+=== WARNING LINES ===
+WARNING CPU usage high
+WARNING Disk usage high
+
+=== ERROR LINES ===
+ERROR Database connection failed
+ERROR API timeout
+ERROR DNS lookup failed
