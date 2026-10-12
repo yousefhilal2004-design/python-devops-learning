@@ -1,0 +1,12 @@
+
+{
+  "app_name": "DevOps Configuration Toolkit",
+  "environment": "development",
+  "timeout_seconds": 10,
+  "enabled_checks": [
+    "disk",
+    "memory",
+    "uptime"
+  ],
+  "report_directory": "reports"
+}
