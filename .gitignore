@@ -3,5 +3,4 @@ __pycache__/
 *.pyc
 
 
-part11/reports/*.txt
-part11/backups/*.txt
+part12/reports/*.txt
