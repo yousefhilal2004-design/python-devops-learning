@@ -1,0 +1,15 @@
+=== DEVOPS LOG REPORT ===
+
+Total lines: 8
+INFO: 2
+WARNING: 2
+ERROR: 3
+Invalid: 1
+
+=== ERROR MESSAGES ===
+web-02: Database connection failed
+db-01: Connection timeout
+web-02: API request failed
+
+=== INVALID LINES ===
+Line 4: Expected LEVEL|SERVER|MESSAGE
