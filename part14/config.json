@@ -1,0 +1,19 @@
+
+{
+  "app_name": "Python API Monitoring Toolkit",
+  "timeout_seconds": 10,
+  "endpoints": [
+    {
+      "name": "sample-post",
+      "url": "https://jsonplaceholder.typicode.com/posts/1",
+      "expected_status": 200,
+      "expect_json": true
+    },
+    {
+      "name": "sample-user",
+      "url": "https://jsonplaceholder.typicode.com/users/1",
+      "expected_status": 200,
+      "expect_json": true
+    }
+  ]
+}
