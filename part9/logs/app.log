@@ -1,0 +1,8 @@
+INFO|web-01|Application started
+ERROR|web-02|Database connection failed
+WARNING|web-01|CPU usage high
+INVALID LINE
+INFO|db-01|Backup completed
+ERROR|db-01|Connection timeout
+WARNING|db-01|Disk usage high
+ERROR|web-02|API request failed
