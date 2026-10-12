@@ -1,0 +1,35 @@
+========================================
+ PYTHON DEVOPS SYSTEM AUDIT
+========================================
+
+=== SYSTEM INFORMATION ===
+Operating system: Linux
+OS release: 6.18.40.1-microsoft-standard-WSL2
+Architecture: x86_64
+Python version: 3.14.4
+Python executable: /home/yousef/devops-projects/python-devops-learning/.venv/bin/python
+Current directory: /home/yousef/devops-projects/python-devops-learning/part11
+Script directory: /home/yousef/devops-projects/python-devops-learning/part11
+Home directory: /home/yousef
+Username: yousef
+Process ID: 10613
+Parent process ID: 3201
+APP_ENV: not configured
+
+=== DISK INFORMATION ===
+Checked path: /home/yousef/devops-projects/python-devops-learning/part11
+Total: 1006.85 GiB
+Used: 3.73 GiB
+Free: 951.91 GiB
+
+=== LOG FILE AUDIT ===
+Files found: 1
+
+Name: app.log
+Path: /home/yousef/devops-projects/python-devops-learning/part11/logs/app.log
+Size: 104 bytes
+Owner permission bits: read=True, write=True, execute=False
+
+=== SCAN WARNINGS ===
+No scan warnings.
+
