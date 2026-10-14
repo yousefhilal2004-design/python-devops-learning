@@ -15,3 +15,6 @@ part18/reports/*.log
 part18/reports/*.txt
 part19/reports/*.log
 part19/reports/*.txt
+part20/reports/.txt
+part20/reports/.json
+part20/reports/*.log

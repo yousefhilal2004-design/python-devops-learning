@@ -1,0 +1,8 @@
+2026-10-15 10:20:01 INFO Application started
+2026-10-15 10:20:05 ERROR Database connection failed
+2026-10-15 10:20:08 WARNING High memory usage
+2026-10-15 10:20:12 ERROR Request timed out
+2026-10-15 10:20:15 INFO Request completed
+2026-10-15 10:20:18 DEBUG Checking worker status
+2026-10-15 10:20:20 CRITICAL Service unavailable
+2026-10-15 10:20:22 ERROR Unable to connect to database
