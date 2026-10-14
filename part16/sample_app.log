@@ -1,0 +1,10 @@
+
+2026-10-14 10:00:00 INFO Application started
+2026-10-14 10:00:01 INFO Configuration loaded
+2026-10-14 10:00:02 WARNING CPU usage is elevated
+2026-10-14 10:00:03 ERROR Database connection failed
+2026-10-14 10:00:04 INFO Request completed
+2026-10-14 10:00:05 ERROR API request timed out
+2026-10-14 10:00:06 WARNING Disk usage is elevated
+2026-10-14 10:00:07 INFO Application stopped
+INVALID LOG RECORD
