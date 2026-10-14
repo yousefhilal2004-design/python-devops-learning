@@ -1,0 +1,17 @@
+{
+  "app_name": "DevOps CLI Toolkit",
+  "environment": "development",
+  "timeout_seconds": 10,
+  "endpoints": [
+    {
+      "name": "sample-post",
+      "url": "https://jsonplaceholder.typicode.com/posts/1",
+      "expected_status": 200
+    },
+    {
+      "name": "sample-user",
+      "url": "https://jsonplaceholder.typicode.com/users/1",
+      "expected_status": 200
+    }
+  ]
+}
