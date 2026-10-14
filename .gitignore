@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-
+.env
 
 part12/reports/*.txt
 part13/reports/*.txt
@@ -11,3 +11,5 @@ part16/logs/*.log
 part16/reports/*.txt
 part17/reports/*.log
 part17/reports/*.txt
+part18/reports/*.log
+part18/reports/*.txt
