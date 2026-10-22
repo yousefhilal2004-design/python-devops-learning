@@ -18,3 +18,9 @@ part19/reports/*.txt
 part20/reports/.txt
 part20/reports/.json
 part20/reports/*.log
+# Part 21 - Python testing and code quality
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
