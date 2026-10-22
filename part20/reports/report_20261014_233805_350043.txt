@@ -1,0 +1,35 @@
+REGEX LOG ANALYZER REPORT
+============================================================
+Generated: 2026-10-14 23:38:05 UTC
+Input file: /home/yousef/devops-projects/python-devops-learning/part20/logs/app.log
+
+SUMMARY
+------------------------------------------------------------
+Non-empty lines: 8
+Parsed lines: 8
+Malformed lines: 0
+
+LOG LEVEL COUNTS
+------------------------------------------------------------
+CRITICAL: 1
+DEBUG: 1
+ERROR: 3
+INFO: 2
+WARNING: 1
+
+WARNINGS
+------------------------------------------------------------
+Line 3: 2026-10-15 10:20:08 WARNING - High memory usage
+
+ERRORS AND CRITICAL EVENTS
+------------------------------------------------------------
+Line 2: 2026-10-15 10:20:05 ERROR - Database connection failed
+Line 4: 2026-10-15 10:20:12 ERROR - Request timed out
+Line 7: 2026-10-15 10:20:20 CRITICAL - Service unavailable
+Line 8: 2026-10-15 10:20:22 ERROR - Unable to connect to database
+
+MALFORMED LINES
+------------------------------------------------------------
+No malformed lines found.
+
+END OF REPORT
