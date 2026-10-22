@@ -24,3 +24,14 @@ __pycache__/
 .venv/
 .pytest_cache/
 .ruff_cache/
+
+# Part 22 - Local secrets
+.env
+.env.*
+!.env.example
+
+# Part 22 - Python caches
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
